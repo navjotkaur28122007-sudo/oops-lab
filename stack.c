@@ -6,7 +6,7 @@
 //gcc filename.c -o filename.exe
 //then
 //.\filename.exe
-
+// multiple stack implementation in a single array
 int arr[MAX];
 int top1 = -1;
 int top2 = MAX;
